@@ -1,0 +1,33 @@
+{
+    "name": "atom--paste-hex-with-hash",
+    "main": "./lib/atom--paste-hex-with-hash",
+    "version": "0.0.1",
+    "description": "Paste hex codes copied without the preceding hash into Atom with the hash applied",
+    "keywords": [
+        "atom",
+        "autocomplete",
+        "hex",
+        "color",
+        "hexcolor",
+        "hash",
+        "prefix",
+        "copy",
+        "paste",
+        "figma"
+    ],
+    "repository": {
+        "url": "https://github.com/weareindi/atom--paste-hex-with-hash",
+        "type": "git"
+    },
+    "bugs": "https://github.com/weareindi/atom--paste-hex-with-hash/issues",
+    "author": {
+        "name": "Laurence Archer",
+        "email": "laurence@weareindi.co.uk",
+        "url": "https://weareindi.co.uk"
+    },
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
