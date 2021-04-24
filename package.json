@@ -1,7 +1,7 @@
 {
     "name": "atom--paste-hex-with-hash",
-    "main": "./lib/atom--paste-hex-with-hash",
-    "version": "0.0.3",
+    "main": "./lib/app",
+    "version": "1.0.0",
     "description": "Paste hex codes copied without the preceding hash into Atom with the hash applied",
     "keywords": [
         "atom",

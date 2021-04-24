@@ -1,0 +1,8 @@
+{
+    "intro": {
+        "title": "Introduction",
+        "description": "A thank you message from the developer displayed on activation",
+        "type": "boolean",
+        "default": "true"
+    }
+}
